@@ -10,7 +10,6 @@ A compact **double-layer PCB** designed using **Autodesk EAGLE** for AC-to-DC co
 * Green power indicator LED
 * 470 Ω current-limiting resistor
 * **Double-layer PCB with polygon copper pour**
-* PCB Size: **54 × 32.1 mm**
 
 ### Tools
 
