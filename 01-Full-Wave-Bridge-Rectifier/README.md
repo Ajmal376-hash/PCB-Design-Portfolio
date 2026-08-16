@@ -1,6 +1,6 @@
 # Full-Wave Bridge Rectifier – 9V Power Supply
 
-A compact PCB design created using **Autodesk EAGLE** for AC-to-DC conversion with a full-wave bridge rectifier and **LM7809 voltage regulator**.
+A compact **double-layer PCB** designed using **Autodesk EAGLE** for AC-to-DC conversion and regulated 9V output.
 
 ### Features
 
@@ -8,11 +8,16 @@ A compact PCB design created using **Autodesk EAGLE** for AC-to-DC conversion wi
 * 470 µF filtering capacitor
 * LM7809 voltage regulator
 * Green power indicator LED
-* Compact **54 × 32.1 mm** PCB
+* 470 Ω current-limiting resistor
+* **Double-layer PCB with polygon copper pour**
+* PCB Size: **54 × 32.1 mm**
 
 ### Tools
 
 * Autodesk EAGLE
-* PCB Design & Routing
+* Schematic & PCB Layout Design
 
-**Author:** Muhammad Ajmal
+### Author
+
+**Muhammad Ajmal**
+Electronics and Communication Engineering
