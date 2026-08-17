@@ -19,4 +19,4 @@ A compact **double-layer PCB** designed using **Autodesk EAGLE** for AC-to-DC co
 ### Author
 
 **Muhammad Ajmal**
-Electronics and Communication Engineering
+
